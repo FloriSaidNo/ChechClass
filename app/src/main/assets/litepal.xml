@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="check"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.checkclass.android.db.Student"/>
+        <mapping class="com.checkclass.android.db.Check"/>
+        <mapping class="com.checkclass.android.db.Teacher"/>
+    </list>
+</litepal>
